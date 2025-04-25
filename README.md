@@ -2,7 +2,7 @@
 
 Project simple dan responsif menampilkan **kartu cuaca animasi** dengan HTML, CSS, dan JavaScript.
 
-![Preview](https://imgur.com/cdpCMBf)
+![Preview](https://i.imgur.com/cdpCMBf.png)
 
 ## 🔥 Fitur
 - UI clean dan modern
